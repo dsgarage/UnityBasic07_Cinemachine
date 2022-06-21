@@ -1,6 +1,6 @@
-# TemplateRepository
+# UnityBasic Cinemachine
 
-Unityのテンプレートリポジトリです
+Cinemachineのサンプルリポジトリです
 
 ## バンドルされているUnityPackage
 ### メインPackage
